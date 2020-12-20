@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&family=Croissant+One&family=Marck+Script&family=Rancho&family=Sail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amita:wght@400;700&display=swap');
+/* font-family: 'Arizonia', cursive;
+font-family: 'Amita', cursive;
+font-family: 'Croissant One', cursive;
+font-family: 'Marck Script', cursive;
+font-family: 'Rancho', cursive;
+font-family: 'Sail', cursive; */
+
+.a{
+font-family: 'Croissant One', cursive;
+}
+.c {
+  font-family: 'Amita', cursive;
+}
+.d {
+font-family: 'Rancho', cursive;
+
+}
+
 .textContainer {
   display: flex;
   flex-direction: column;
